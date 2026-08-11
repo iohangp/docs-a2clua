@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-0diki0.kujang138btc.space/sitemap.xml
